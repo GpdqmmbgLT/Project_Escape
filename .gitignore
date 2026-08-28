@@ -1,0 +1,20 @@
+Assets/Resource/生锈的木箱/textures/wooden_military_crate_metal_2k.exr
+/.vscode/
+/Logs/
+/UserSettings/
+/Packages/
+/Library/
+/ProjectSettings/
+/Temp/
+Assets/Hovl Studio/
+Assets/Material
+Assets/Media
+Assets/Prefabe
+Assets/Resource
+Assets/Scenes
+Assets/TextMesh Pro
+*.meta
+*.csproj
+
+Assets/New Terrain.asset
+Project_EscapeBox.sln
